@@ -1,5 +1,5 @@
 # intrusion-x
-parts of the code for the initial prototyping of a wild animal intrusion system that would help alert farmers when wild animals enter their fields using Raspberry Pi.
+parts of the code for the hardware project we made for the initial prototyping of a wild animal intrusion system that would help alert farmers when wild animals enter their fields using Raspberry Pi.
 
 pir.py- This is the code that is used to auto start the camera upon detection of motion in the PIR sensor.
 
